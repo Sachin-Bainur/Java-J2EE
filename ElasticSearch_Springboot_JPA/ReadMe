@@ -1,0 +1,5 @@
+#This is just overall structure of project
+#Only controllers and services are uploaded
+#JPA configration and spring configration files are not uploaded
+#Refer to elastic search document for understanding
+#sync job must be written to update data in elastic search 
